@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pranav Gupta</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
-- 🔭 I’m currently working on **E-Commerce Website**
+- 🔭 I’m currently working on **Booking Website**
 
 - 🌱 I’m currently learning **React, DevOps**
 
-- 💬 Ask me about **JavaScript, react, Nodejs,**
+- 💬 Ask me about **JavaScript, react, Nodejs, Programming**
 
 - 📫 How to reach me **kpranav.in@gmail.com**
 
