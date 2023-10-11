@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=przivi&label=Profile%20views&color=0e75b6&style=flat" alt="przivi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=przivi&label=Profile%20views&color=0e75b6&style=flat" alt="prazivi" /> </p>
 
 - 🔭 I’m currently working on **Booking Website**
 
