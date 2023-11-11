@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full Stack**
 
-- 👯 I’m looking to collaborate on **Booking Website**
+- 👯 I’m looking to collaborate on **Ecommerce Website**
 
 - 💬 Ask me about **Java, JavaScript, React, Node**
 
