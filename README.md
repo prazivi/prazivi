@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=przivi&label=Profile%20views&color=0e75b6&style=flat" alt="prazivi" /> </p>
 
-- 🔭 I’m currently working on **Booking Website**
+- 🔭 I’m currently working on **Ecommerce Website**
 
 - 🌱 I’m currently learning **Full Stack**
 
