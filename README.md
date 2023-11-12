@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Ecommerce Website**
 
-- 💬 Ask me about **Java, JavaScript, React, Node**
+- 💬 Ask me about **Java, JavaScript, React Js, Node Js**
 
 - 📫 How to reach me **kpranav.in@gmail.com**
 
