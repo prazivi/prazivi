@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Ecommerce Website**
 
-- 🌱 I’m currently learning **Full Stack**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👯 I’m looking to collaborate on **Ecommerce Website**
 
