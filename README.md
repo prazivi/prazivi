@@ -6,11 +6,7 @@
 
 - 🔭 I’m currently working on **Ecommerce Website**
 
-- 🌱 I’m currently learning **Full Stack Development**
-
-- 👯 I’m looking to collaborate on **Ecommerce Website Development**
-
-- 💬 Ask me about **Java, JavaScript, React Js, Node Js, Python**
+- 💬 Ask me about **Java, Golang, JavaScript, React Js, **
 
 - 📫 How to reach me **kpranav.in@gmail.com**
 
