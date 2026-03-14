@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://leetcode.com/prazivi/">
+<a href="https://leetcode.com/stambh/">
   <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 &nbsp;
@@ -28,14 +28,14 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" />
 
-- 🏢 **Software Engineer @ Accenture** — 2 Years of Experience
-- 🔭 Currently working on an **Ecommerce Website**
-- 🌱 Continuously exploring **Cloud, Microservices & System Design**
-- 💬 Ask me about **Java, Golang, JavaScript, React.js**
-- 📫 Reach me at **kpranav.in@gmail.com**
-- ⚡ Fun fact: I love solving algorithmic challenges on LeetCode!
+- **Role:** Software Engineer @ Accenture (2 years)
+- **Domain:** Retail
+- **Focus areas:** Cloud, Microservices, System Design
+- **Tech I work with:** Java, Spring Boot
+- **Currently learning:** Applied AI/ML
+- **Contact:** kpranav.in@gmail.com
+- **Interests:** Building reliable, scalable services and improving developer experience
 
 <br clear="right"/>
 
@@ -58,9 +58,9 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring%20Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -71,33 +71,28 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![New%20Relic](https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🧩 Engineering Highlights
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prazivi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=prazivi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prazivi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
+- Designed and delivered services in the **Retail** domain with a focus on reliability and scale
+- Comfortable with **REST APIs**, async workflows, and production debugging
+- Familiar with **Docker + Kubernetes** and observability tools (**Splunk**, **New Relic**)
+- Interested in **Applied AI/ML** for practical automation and decision support
 
 ---
 
